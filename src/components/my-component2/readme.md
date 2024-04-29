@@ -1,4 +1,4 @@
-# my-component
+# my-component2
 
 
 
@@ -16,15 +16,15 @@
 
 ## Dependencies
 
-### Depends on
+### Used by
 
-- [my-component2](../my-component2)
+ - [my-component](../my-component)
 
 ### Graph
 ```mermaid
 graph TD;
   my-component --> my-component2
-  style my-component fill:#f9f,stroke:#333,stroke-width:4px
+  style my-component2 fill:#f9f,stroke:#333,stroke-width:4px
 ```
 
 ----------------------------------------------
